@@ -1,0 +1,10 @@
+{
+  "name": "influx_store",
+  "description": "Store the point to inlux db",
+  "license": "Apache-2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "influx": "5.0.7"
+  }
+}
